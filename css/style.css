@@ -1,0 +1,39 @@
+/* Regole Generali */
+
+[class^='container'] {
+    border: none;
+    min-height: 80vh;
+}
+
+[class^='row'] {
+    border: none;
+}
+
+[class^='col'] {
+    border: none;
+}
+
+/* testi */
+
+body {
+    color: white;
+}
+
+.grey-text {
+    color: grey;
+    font-size: 18px;
+}
+
+/* Spaziatura */
+
+.text-center {
+margin: 50px;
+}
+
+.row {
+    margin-bottom: 25px;
+}
+
+.row > .textbox {
+    padding: 25px;
+}
