@@ -34,6 +34,6 @@ margin: 50px;
     margin-bottom: 25px;
 }
 
-.row > .textbox {
+.row > .row-cols {
     padding: 25px;
 }
